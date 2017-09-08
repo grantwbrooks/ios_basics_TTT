@@ -137,8 +137,6 @@ class ViewController: UIViewController {
 
 
     
-    
-    
     override func viewDidLoad() {
         super.viewDidLoad()
         for butt in button {
